@@ -25,7 +25,7 @@ const projectsData = [
   },
   {
     id: 3,
-    name: "Web Design Landing Page",
+    name: "Design Landing Page",
     tags: ["web-page"],
     media: {
       thumbnail: require("../../images/portfolio/thumb-8.jpg"),
@@ -41,7 +41,7 @@ const projectsData = [
   },
   {
     id: 5,
-    name: "Healthy food restraunt",
+    name: "Healthy foodrestraunt",
     tags: ["product"],
     media: {
       thumbnail: require("../../images/portfolio/thumb-3.jpg"),
@@ -49,7 +49,7 @@ const projectsData = [
   },
   {
     id: 6,
-    name: "Anna & Daniel",
+    name: "Daniel",
     tags: ["web-page"],
     media: {
       thumbnail: require("../../images/portfolio/thumb-4.jpg"),
@@ -65,7 +65,7 @@ const projectsData = [
   },
   {
     id: 8,
-    name: "Business Analytics Web App",
+    name: "Business Web App",
     tags: ["web-app", "mobile-app"],
     media: {
       thumbnail: require("../../images/portfolio/thumb-6.jpg"),
