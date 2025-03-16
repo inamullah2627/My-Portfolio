@@ -3,6 +3,7 @@ import React from "react";
 import Intro from "./components/intro";
 import Skills from "./components/Skills";
 import Portfolio from "./components/Portfolio";
+import Blogs from "./components/Blogs";
 import "./app.scss";
 
 const App = () => {
@@ -11,6 +12,7 @@ const App = () => {
       <Intro />
       <Skills />
       <Portfolio />
+      <Blogs />
     </div>
   );
 };
