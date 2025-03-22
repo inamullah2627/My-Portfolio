@@ -10,7 +10,7 @@ import BlogCard from "./Blog-card";
 import "./style.scss";
 const Blogs = () => {
   return (
-    <Section id="blogs" title="Blogs & Articles" background="dark">
+    <Section id="blog" title="Blogs & Articles" background="dark">
       <div className="blogs-content-wrapper">
         <BlogCard
           user="Inam Ullah"

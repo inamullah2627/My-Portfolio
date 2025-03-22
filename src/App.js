@@ -4,6 +4,8 @@ import Intro from "./components/intro";
 import Skills from "./components/Skills";
 import Portfolio from "./components/Portfolio";
 import Blogs from "./components/Blogs";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 import "./app.scss";
 
 const App = () => {
@@ -13,6 +15,8 @@ const App = () => {
       <Skills />
       <Portfolio />
       <Blogs />
+      <Contact />
+      <Footer />
     </div>
   );
 };
